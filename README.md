@@ -2,5 +2,5 @@
 ## How to use GitHub
 ### Dont copy my code, Thanks!
 #### Canepavdo 
-![Esempio di immagine](![image](https://github.com/user-attachments/assets/3b9f0956-6f95-49c0-9027-dfdef2985683)
-)
+
+![Immagine 2024-12-06 083314](https://github.com/user-attachments/assets/20627c4e-0813-4d85-b63f-6587ce8f895f)
