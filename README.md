@@ -1,3 +1,4 @@
 # FIRST PROJECT
-## Test su come usare GitHub
-### Non copiatemi il codice, grazie!
+## How to use GitHub
+### Dont copy my code, Thanks!
+#### Canepavdo 
